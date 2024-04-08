@@ -1,0 +1,157 @@
+.lit{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.lit2{
+    
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+.text-color-custom{
+    color: #E844B2 !important;
+         word-spacing: 100px;
+        font-family: "Cherry Bomb One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        text-shadow: 0 0 7px white, 0 0 5px #0000FF;
+        
+      }
+      
+.textii{
+    margin-top: 2vh;
+    font-family: Din;
+    font-size: larger;
+}
+.texti{
+font-family: Din;
+font-size: larger;
+}
+.textt{
+   
+    font-family: "Changa One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+      margin-top: 2vh;
+      
+}
+.textr{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+   font-weight: 400px;
+}
+.big-ice-cream {
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+.sec2{
+    margin-top: 50rem;
+}
+.imgsec2{
+    border-radius: 50%;
+}
+
+.intro{
+    width: 60%;
+margin: auto;
+}
+
+hr.dotted {
+    border-color: pink;
+    width: 30%;
+    border-style: dotted;
+    border-width: 20px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.dod{
+    display: grid;
+    grid-template-columns: 1fr 3fr ;
+    grid-template-rows: 1.5fr 1fr;
+}
+
+
+.ice-cream {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ice-cream__cream {
+    fill:pink;
+  }
+  
+  .ice-cream__cone {
+    fill: #D69950;
+  }
+
+
+  .circle{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    height: 15rem;
+    width: 15rem;
+    background-color:cyan;
+    border-radius: 100%;
+    margin: auto;
+}
+
+
+
+@media (max-width: 1200px) {
+            .circle {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+svg{
+    height: 10rem;;
+}
+
+
+.kids-train-section {
+    text-align: center;
+}
+
+.kids-train-image {
+    margin: 0 auto;
+}
+
+.circle-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem; /* Adjust this value as needed */
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 1399.98px) { 
+.centerr{
+    width: 1200px;
+    margin-left: 30% !important;; 
+}
+
+ }
+
+
+
+
+@media (max-width: 100px) {
+
+
+}
